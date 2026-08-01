@@ -1,0 +1,108 @@
+{
+  "title": "Q3eSE_LS0_U01_07_SpeakingSkill_Part1_Examples",
+  "sentences": [
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "Rome is my favorite city.",
+      "arabic": "روما هي مدينتي المفضلة.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Rome is my favorite city.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },{
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "Rome is my favorite city. What is yours?",
+      "arabic": "روما هي مدينتي المفضلة. ما هي مدينتك؟",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Rome is my favorite city What is yours.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "Shanghai.",
+      "arabic": "شنغهاي",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Shanghai.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "It has amazing buildings and delicious food.",
+      "arabic": "لها مبانٍ مذهلة وطعام لذيذ.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/It has amazing buildings and delicious food.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "I like cooking.",
+      "arabic": "يعجبني الطبخ",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/I like cooking.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "I like cooking. How about you?",
+      "arabic": "يعجبني الطبخ. ماذا عنك؟",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/I like cooking How about you.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "I like cooking, too.",
+      "arabic": "أنا يعجبني الطهي أيضًا.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/I like cooking, too.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "I often cook with friends on the weekends.",
+      "arabic": "أنا غالبًا أطبخ مع الأصدقاء في عطلة نهاية الأسبوع.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/I often cook with friends on the weekends.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    }
+     ]
+}
