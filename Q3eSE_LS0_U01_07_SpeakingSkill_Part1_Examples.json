@@ -1,6 +1,21 @@
 {
   "title": "Q3eSE_LS0_U01_07_SpeakingSkill_Part1_Examples",
   "sentences": [
+    
+
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "Q3eSE_LS0_U01_07_SpeakingSkill_Part1_Examples.",
+      "arabic": "Q3eSE_LS0_U01_07_SpeakingSkill_Part1_Examples",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Q3eSE_LS0_U01_07_SpeakingSkill_Part1_Examples.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
     {
       "speaker": "",
       "keyWord": "",
@@ -13,7 +28,8 @@
       "audioQuestion": "",
       "answer": "",
       "Image": ""
-    },{
+    },
+    {
       "speaker": "",
       "keyWord": "",
       "definition": "",
